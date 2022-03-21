@@ -1,0 +1,82 @@
+[
+    {
+        "image": "./Images/Foundation.jpeg",
+        "name": "Foundation",
+        "price": 40.00
+    },
+    {
+        "image": "./Images/Concealer.jpeg",
+        "name": "Concealer",
+        "price": 25.00
+    },
+    {
+        "image": "./Images/SettingPowder.jpeg",
+        "name": "Setting Powder",
+        "price": 20.00
+    },
+    {
+        "image": "./Images/Bronzer.jpeg",
+        "name": "Bronzer",
+        "price": 20.00
+    },
+    {
+        "image": "./Images/BlushPalette.jpeg",
+        "name": "Blush Palette",
+        "price":25.00
+    },
+    {
+        "image": "Images/LipLiner.jpeg",
+        "name": "Lip Liner",
+        "price": 12.00
+    },
+    {
+        "image": "./Images/LiquidLipstick.jpeg",
+        "name": "Liquid Lipstick",
+        "price": 20.00
+    },
+    {
+        "image": "./Images/LipGloss.jpeg",
+        "name": "Lipgloss",
+        "price": 15.00
+    },
+    {
+        "image": "./Images/Eyeshadow12.jpeg",
+        "name": "Yellow sQuad",
+        "price": 20.00
+    },
+    {
+        "image": "./Images/Eyeshadow4.jpeg",
+        "name": "Gray sQuad<",
+        "price": 20.00
+    },
+    {
+        "image": "./Images/Eyeshadow2.jpeg",
+        "name": "Blue sQuad",
+        "price": 20.00
+    },
+    {
+        "image": "./Images/Eyeshadow3.jpeg",
+        "name": "Green sQuad ",
+        "price": 20.00
+    },
+    {
+        "image": "./Images/BrowGel.jpeg",
+        "name": "Brow Gel",
+        "price": 15.00
+    },
+    {
+        "image": "./Images/BrowPen.jpeg",
+        "name": "Brow Pen",
+        "price": 15.00
+    },
+    {
+        "image": "./Images/Eyeshadow1.jpg",
+        "name": "Krootown Palette",
+        "price": 30.00
+    },
+    {
+        "image": "./Images/eyeshadow9.jpeg",
+        "name": "Naimbana Palette",
+        "price": 25.00
+    }
+]
