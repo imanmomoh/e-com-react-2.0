@@ -17,7 +17,10 @@ export class Footer extends Component {
       <div className="footer-links">
         <a href="index.html">| Home page |</a>
         <a href="contact.html"> Contact Us |</a>
-        <a href="products.html"> Shop Now </a>
+        <a href="products.html"> Shop Now </a> <br/>
+        <br/>
+        <br/>
+       <span className="ani"> <a href="https://www.instagram.com/">CHECK OUR IG</a></span>
       </div>
     </div>
   </footer>
