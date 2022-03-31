@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import SimpleSlider from './slider'
 
 export class Home extends Component {
 
@@ -24,6 +25,10 @@ export class Home extends Component {
       </div>
     </div>
   </section>
+  <section className="bbb">
+                <h1>Coming Soon <br /> on <br /> I.N.M</h1><br />
+                <SimpleSlider />
+            </section>
   
 
 

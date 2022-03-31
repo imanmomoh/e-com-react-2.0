@@ -151,6 +151,52 @@ p {
 font-size: 20px;
 color: black;
 }
+/* Slider css */
+
+.slides .slick-prev, .slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  /* font-size: 50px; */
+}
+
+.slides {
+  position: relative;
+}
+
+.slides .slick-prev, .slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+}
+
+.slides .slick-prev {
+  left: 10%;
+}
+
+.slides .slick-next {
+  right: 10%;
+}
+
+.bbb h1 {
+  align-items: center;
+}
+.App2{
+  margin: 0 auto;
+font-size: 50px;
+color: rgb(231, 224, 220);
+width: 65%;
+font-weight: 400;
+border-radius: 7px;
+transition: 600ms;
+padding: 20px;
+padding-bottom: 35px;
+}
+
+
+
+
+
 /* products css */
 /* Grid */
 .grid-container {
